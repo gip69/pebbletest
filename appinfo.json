@@ -1,0 +1,20 @@
+{
+    "watchapp": {
+        "watchface": false
+    },
+    "longName": "testmultiple.js",
+    "shortName": "testmultiple.js",
+    "companyName": "gip@me.com",
+    "capabilities": [
+        ""
+    ],
+    "resources": {
+        "media": []
+    },
+    "uuid": "631a1f43-fbfd-4bd5-a7be-b7f920b267e5",
+    "versionLabel": "1.0",
+    "appKeys": {
+        "dummy": 0
+    },
+    "versionCode": 1
+}
